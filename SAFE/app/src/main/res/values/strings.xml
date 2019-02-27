@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">SAFE</string>
-    <string name="access_token">pk.eyJ1Ijoic2FmZS1hcm8iLCJhIjoiY2pzbHc1MGtpMzNhNDQ1bWwzN3V0MnFzZCJ9.cTabGdVRQBzz_bmci0i14Q</string>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoic2FmZS1hcm8iLCJhIjoiY2pzbHc1MGtpMzNhNDQ1bWwzN3V0MnFzZCJ9.cTabGdVRQBzz_bmci0i14Q</string>
+    <string name="permisos_usuario">Para poder obtener la localización del usuario, es necesario aceptar los permisos relacionados con la localización GPS del dispositivo</string>
+    <string name="error_permisos_usuario">Se ha producido un error a la hora de vincular la aceptación de la localización GPS</string>
 </resources>
